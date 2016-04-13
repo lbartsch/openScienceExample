@@ -8,4 +8,4 @@ To install the package:
 
 Make sure you install the `devtools` package first.
 
-This version was forked by Lea Bartsch
+This version was forked by Lea Bartsch!
